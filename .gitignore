@@ -10,6 +10,12 @@
 !.yarn/releases
 !.yarn/versions
 
+.env
+firebase-debug.log
+firebase-error.log
+
+.env.local
+
 # testing
 /coverage
 
